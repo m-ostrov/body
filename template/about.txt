@@ -1,0 +1,6 @@
+<div class="container" data-id="container">
+    <div class="row">
+        <div class="col-sm-6" data-id="about" data-type="case">
+        </div>
+    </div>
+</div>

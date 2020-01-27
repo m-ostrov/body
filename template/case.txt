@@ -1,0 +1,6 @@
+<div>
+<div style="float: left; margin: 20px; box-shadow: 5px 10px #efefef;"><img data-element="image" data-attribute="src" style="height: 200px; width: 190px;" src="http://localhost:3001/logo.png" /></div>
+<div data-element="text" style="box-shadow: 5px 10px #efefef; padding: 10px;">
+<h1 data-element="header"></h1>
+</div>
+</div>
